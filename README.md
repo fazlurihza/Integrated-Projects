@@ -7,7 +7,7 @@ I am working as an analyst at "Ice," an online store specializing in video games
 **Instructions:**
 
 1. **Data Preparation:**
-   - Load and examine the dataset from `/datasets/games.csv`.
+   - Load and examine the dataset from `games.csv`.
    - Rename columns to lowercase and convert data types as needed.
    - Handle missing values and TBD (to be determined) entries appropriately.
    - Calculate total global sales for each game and add this to the dataset.
